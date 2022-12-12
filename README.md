@@ -1,5 +1,11 @@
 # ublog
 
+Transaction App UI Design with Flutter and Figma
+
+You can observe to predesign process in Figma
+
+![uBlog](https://user-images.githubusercontent.com/105917287/207045821-80328ec9-3961-43e3-a16f-ae10de26a222.PNG)
+
 A new Flutter project.
 
 ## Getting Started
